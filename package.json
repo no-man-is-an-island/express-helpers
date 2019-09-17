@@ -1,6 +1,6 @@
 {
   "name": "@public-tech/express-helpers",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Helper classes for express",
   "main": "src/index.js",
   "directories": {
